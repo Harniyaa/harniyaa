@@ -30,36 +30,32 @@ https://github.com/Harniyaa/harniyaa.github.io/assets/149606373/b2d9df06-b785-49
 
 
 
-
-## Key Features:
-
-1 .  Home Page:
-* Welcome section with a brief introduction.
-* Navigation bar for easy access to different sections.
-* Social media links for connecting with the user.
-  
-2 . About Me:
-* Detailed information about the user's background, skills, and interests.
-* A visually engaging layout to present personal details.
-  
-3 . Portfolio:
-* Showcase of past projects with descriptions and images.
-* Filtering or categorization options for easy browsing.
-* Links to project repositories or external demos.
-
-4 . Skills:
-* Visual representation of skills using charts or graphs.
-* Brief explanations of proficiency levels.
-
-5 . Resume/CV:
-* Option to download or view the user's resume or CV in PDF format.
-* Summary of education, work experience, and certifications.
+> [!IMPORTANT]
+> 1 .  Home Page:
+> * Welcome section with a brief introduction.
+> * Navigation bar for easy access to different sections.
+> * Social media links for connecting with the user.
+>   
+> 2 . About Me:
+> * Detailed information about the user's background, skills, and interests.
+> * A visually engaging layout to present personal details.
+>
+> 3 .  Skills:
+> * Visual representation of skills using charts or graphs.
+> * Brief explanations of proficiency levels.
+>
+> 4 . Resume/CV:
+> * Option to download or view the user's resume or CV in PDF format.
+> * Summary of education, work experience, and certifications.
 
 
-# GITHUB 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasanth312203&show_icons=true&theme=radical)
+>[!WARNING]
+>Warning: Unauthorized Distribution Prohibited
 
+This repository and its contents are protected by copyright law. Any unauthorized distribution, reproduction, or modification of the materials without proper authorization is strictly prohibited. Users are advised to adhere to the terms of use outlined in the repository's license file.
+
+Thank you for your cooperation and understanding.
 
 
 
