@@ -21,8 +21,12 @@ This project is open-source and available under the [MIT License](https://github
  The Portfolio Website project is a dynamic online platform designed to showcase professional skills, projects, and experiences. Utilizing HTML, CSS, and JavaScript, it offers an interactive space for individuals to present their work in a visually appealing manner. From a welcoming home page to detailed sections for projects, skills, and contact information, the website provides a comprehensive overview of the user's abilities. With a focus on responsive design and user experience, this project aims to create an engaging digital portfolio that leaves a lasting impression on visitors.
 
 
-![Video](relative/path/to/demo.webm)
 
+
+
+
+
+https://github.com/Harniyaa/harniyaa.github.io/assets/149606373/b2d9df06-b785-497a-8753-015cbeced8a1
 
 
 
@@ -50,6 +54,11 @@ This project is open-source and available under the [MIT License](https://github
 5 . Resume/CV:
 * Option to download or view the user's resume or CV in PDF format.
 * Summary of education, work experience, and certifications.
+
+
+# GITHUB 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasanth312203&show_icons=true&theme=radical)
 
 
 
